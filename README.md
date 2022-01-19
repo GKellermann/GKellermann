@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GKellermann
 - 👀 I’m interested Front-end technologies. I'm also an enthusiast in AI
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning MySQL
 - 💞️ I’m looking to collaborate on machine learning
 - 📫 How to reach me gabrielkellermann@hotmail.com
 
